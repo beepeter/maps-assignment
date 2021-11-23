@@ -1,0 +1,19 @@
+Salman
+bottle
+for holding liquids or seeing things far away
+armour: -1
+damage: 4
+quantity: 5
+
+belt buckle
+people really want to break it
+armour: 5
+damage: 0
+quantity: 1
+
+stepeng stool
+meant for steppin', used for hittin'
+armour: 2
+damage: 3
+quantity: 1
+

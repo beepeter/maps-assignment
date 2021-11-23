@@ -1,0 +1,13 @@
+----------------------------------------------------------
+| cliffside | start    | gem spot | enemy    | cliffside |
+----------------------------------------------------------
+| cliffside | enemy    | enemy    | supplies | cliffside |
+----------------------------------------------------------
+| cliffside | nothing  | supplies | enemy    | cliffside |
+----------------------------------------------------------
+| cliffside | nothing  | nothing  | supplies | cliffside |
+----------------------------------------------------------
+| cliffside | enemy    | enemy    | nothing  | cliffside |
+----------------------------------------------------------
+| cliffside | gem spot | enemy    | supplies | cliffside |
+----------------------------------------------------------
